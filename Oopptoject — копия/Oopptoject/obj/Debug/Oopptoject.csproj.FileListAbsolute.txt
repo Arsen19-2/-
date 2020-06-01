@@ -1,0 +1,36 @@
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\bin\Debug\Oopptoject.exe.config
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\bin\Debug\Oopptoject.exe
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\bin\Debug\Oopptoject.pdb
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.csprojAssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Form3.resources
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Properties.Resources.resources
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.csproj.GenerateResource.cache
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.exe
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.pdb
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Form2.resources
+C:\Users\Gigabyte\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Form1.resources
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\bin\Debug\Oopptoject.exe.config
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\bin\Debug\Oopptoject.exe
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\bin\Debug\Oopptoject.pdb
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Form1.resources
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Form2.resources
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Form3.resources
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.exe
+C:\Users\Lenovo\Desktop\Myproject\Oopptoject\Oopptoject\obj\Debug\Oopptoject.pdb
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\bin\Debug\Oopptoject.exe.config
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\bin\Debug\Oopptoject.exe
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\bin\Debug\Oopptoject.pdb
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.Form1.resources
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.Form2.resources
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.Form3.resources
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.exe
+C:\Users\Lenovo\Desktop\Oopptoject — копия\Oopptoject\obj\Debug\Oopptoject.pdb

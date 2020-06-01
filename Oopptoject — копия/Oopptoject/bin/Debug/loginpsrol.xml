@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+	<user login ="Admin">
+		<password>123456</password>
+	</user>
+	<user login ="User">
+		<password>1234</password>
+   </user> 
+	<user login ="Fan">
+		<password>1234567</password>
+	</user>
+	<user login ="Usertwo">
+		<password>123456789</password>
+	</user>		
+</users> 
